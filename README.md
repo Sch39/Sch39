@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! 👋 I'm Sukron.
 
-<!--
-**Sch39/Sch39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An independent Web Developer who loves to create and share projects about web and machine learning technology! I've enjoyed back end, front end, machine learning and implement that in my project.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about web technology and machine learning
+- 💬 Feel free to ask me about web development or machine learning
+- 📫 How to reach me: sukron_chafidhi@sch39.dev
+
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/sukron-chafidhi">LinkedIn</a>
+- <a href="http://profile.sch39.dev/">profile.sch39.dev</a>
