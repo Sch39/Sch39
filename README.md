@@ -10,4 +10,5 @@ An independent Web Developer who loves to create and share projects about web an
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/sukron-chafidhi">LinkedIn</a>
+- <a href="http://sch39.dev/">sch39.dev</a>
 - <a href="http://profile.sch39.dev/">profile.sch39.dev</a>
